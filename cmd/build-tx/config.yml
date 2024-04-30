@@ -1,0 +1,13 @@
+policy_hash: "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb"
+asset_name: "GENS"
+receiving_address: "addr1qy7xzvaxknws3a9a56ds2du0kmku0w0g9xhpg5fnyzfnesn4mdk9ez2wdph38dm5gw0mv2mpe7w0fzmrww6e4fry64ys73stjn"
+utxos:
+  - txid: "4029cf36ff4655f338f4cf9348f5197c18c01261c5a479e517ee43b67b3e6c3a"
+    index: 0
+    amount: 42
+  - txid: "a9f3d7647566ff7a8c212aee1701b29396d7dcdb5c6cccaf47a1b0febfbda8e8"
+    index: 1
+    amount: 314
+  - txid: "63cf67d6856689b0b3fc3fab14fa004353b2da7a60857b2802f164ee2e283996"
+    index: 2
+    amount: 13
