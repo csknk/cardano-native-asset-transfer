@@ -1,6 +1,6 @@
 policy_hash: "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb"
 asset_name: "GENS"
-receiving_address: "addr1qy7xzvaxknws3a9a56ds2du0kmku0w0g9xhpg5fnyzfnesn4mdk9ez2wdph38dm5gw0mv2mpe7w0fzmrww6e4fry64ys73stjn"
+receiving_address: "" # The Genius Yield Token (ADA) address that funds will be sent to
 utxos:
   - txid: "05b2fdc55a4c634722a704809c690e3f0a98103ba32726830d929fa1a81b0b0b"
     index: 26
